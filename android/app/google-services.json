@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902615098791",
+    "project_id": "meetup-flutter-bd553",
+    "storage_bucket": "meetup-flutter-bd553.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902615098791:android:9f1f030e20579349610282",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902615098791-in7vj9292aftrln7tjrfgf28a6fbq6gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoU9nQpXfJHDn31cHlZen_KdoiBJ-4kmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902615098791-in7vj9292aftrln7tjrfgf28a6fbq6gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
